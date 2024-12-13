@@ -1,0 +1,87 @@
+# Copyright (C) 2023 FS Code
+# This file is distributed under the same license as the Booknetic Time Blocker plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Booknetic Time Blocker 1.0.12\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/booknetic-blocker\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-05-20T10:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: booknetic-blocker\n"
+
+#: App/BlockerAddon.php:45
+msgid "Time Blocker"
+msgstr ""
+
+#: App/BlockerAddon.php:46
+msgid "Block time slots in the calendar"
+msgstr ""
+
+#: App/BlockerAddon.php:89
+msgid "Block Time"
+msgstr ""
+
+#: App/BlockerAddon.php:90
+msgid "This time slot is blocked"
+msgstr ""
+
+#: view/settings.php:8
+msgid "Enable Time Blocker"
+msgstr ""
+
+#: view/settings.php:19
+msgid "Save Settings"
+msgstr ""
+
+#: view/blocker_interface.php:7
+msgid "Staff"
+msgstr ""
+
+#: view/blocker_interface.php:18
+msgid "Start Date"
+msgstr ""
+
+#: view/blocker_interface.php:22
+msgid "End Date"
+msgstr ""
+
+#: view/blocker_interface.php:28
+msgid "Start Time"
+msgstr ""
+
+#: view/blocker_interface.php:32
+msgid "End Time"
+msgstr ""
+
+#: view/blocker_interface.php:38
+msgid "Repeat"
+msgstr ""
+
+#: view/blocker_interface.php:40
+msgid "No repeat"
+msgstr ""
+
+#: view/blocker_interface.php:41
+msgid "Daily"
+msgstr ""
+
+#: view/blocker_interface.php:42
+msgid "Weekly"
+msgstr ""
+
+#: view/blocker_interface.php:43
+msgid "Monthly"
+msgstr ""
+
+#: view/blocker_interface.php:51
+msgid "CANCEL"
+msgstr ""
+
+#: view/blocker_interface.php:52
+msgid "ADD BLOCK"
+msgstr ""

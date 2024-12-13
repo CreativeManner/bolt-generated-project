@@ -1,0 +1,11 @@
+{
+    "name": "booknetic/blocker",
+    "description": "Blocker addon for Booknetic Appointment Booking System",
+    "type": "wordpress-plugin",
+    "autoload": {
+        "psr-4": {
+            "BookneticAddon\\Blocker\\": "App/"
+        }
+    },
+    "require": {}
+}
